@@ -13,4 +13,5 @@ router.get("/add", function(req, res, next) {
 router.get("/view", function(req, res, next) {
     res.render("tables");
 });
+
 module.exports = router;

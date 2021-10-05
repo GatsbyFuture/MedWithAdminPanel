@@ -1,0 +1,6 @@
+{
+    "mainserver": {
+        "password": "passwordKey",
+        "db": "passwordMed"
+    }
+}
